@@ -1,5 +1,4 @@
-<img width-100% src = "https://capsule-render.vercel.app/api?type=wavIng&color=ff91a4&height=120&section-header"/>
-
+<img width=100% src = "https://capsule-render.vercel.app/api?type=wavIng&color=00008B&height=120&section-header"/>
 ### Olá! Eu sou o Daniel Portela.
 
 
