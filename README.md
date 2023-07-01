@@ -7,8 +7,8 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielportela__/)
 
 
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&bg_color=00000000)
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=dark)
 
 
 
