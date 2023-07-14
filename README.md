@@ -22,4 +22,4 @@
 
 
 Apaixonado por tecnologias e por mudar a vida das pessoas através da programação.
-Na busca para me tornar um Desenvolvedor Front-End de sucesso.
+Na busca da primeira oportunidade como Desenvolvedor Front-End.
