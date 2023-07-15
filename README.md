@@ -21,5 +21,5 @@
 </div><br/>
 
 
-Apaixonado por tecnologias e por mudar a vida das pessoas através da programação.
+Sempre fui apaixonado por tecnologias e por mudar a vida das pessoas através da programação.
 Na busca da primeira oportunidade como Desenvolvedor Front-End.
