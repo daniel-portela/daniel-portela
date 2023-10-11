@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-77999109489?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
 [![Site](https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://danielfront.com.br)
 
@@ -37,3 +37,5 @@ Ferramentas:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![WordPress ](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=120&section=footer"/>
