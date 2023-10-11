@@ -5,7 +5,9 @@
 
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=dracula&count_private=true) 
 
-<img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=omni"/>
+Estatísticas:
+
+<img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=omni"/>
 
 Conhecimento sólido em:
 
