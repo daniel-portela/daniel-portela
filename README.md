@@ -5,7 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
 [![Site](https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://danielfront.com.br)
 
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação. Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e conhecimentos em Web Designer.
+
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
+
+Sou capaz de analisar, projetar e unificar uma mistura de programação e desenvolvimento web. Minha missão é elevar negócios através de códigos e design!
 
 Estatísticas:
 
@@ -28,9 +32,6 @@ Estudando:
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img align="center" alt="js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
-
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 Ferramentas:
 
