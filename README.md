@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
 
-<img width=100% src="https://media.licdn.com/dms/image/C5616AQFNfIwkUuwsfg/profile-displaybackgroundimage-shrink_200_800/0/1588263889729?e=2147483647&v=beta&t=FYLMoUUCtq1nLVBA5p3wQ9OjdFZBsiYwj25X4q89gds"/>
+<img width=90% src="https://media.licdn.com/dms/image/C5616AQFNfIwkUuwsfg/profile-displaybackgroundimage-shrink_200_800/0/1588263889729?e=2147483647&v=beta&t=FYLMoUUCtq1nLVBA5p3wQ9OjdFZBsiYwj25X4q89gds"/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação. Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e conhecimentos em Web Designer.
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação. <br>Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e conhecimentos em Web Designer.
 
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
