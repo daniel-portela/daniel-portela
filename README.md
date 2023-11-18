@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
+
 <img width=100% src="https://media.licdn.com/dms/image/C5616AQFNfIwkUuwsfg/profile-displaybackgroundimage-shrink_200_800/0/1588263889729?e=2147483647&v=beta&t=FYLMoUUCtq1nLVBA5p3wQ9OjdFZBsiYwj25X4q89gds"/>
 
 <h3>Desenvolvedor Front-end e Web Designer</h3>
 
-
-<p>Graduando Análise e Desenvolvimento de Sistemas </p>
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
