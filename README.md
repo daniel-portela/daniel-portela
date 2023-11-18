@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-![image](https://github.com/daniel-portela/daniel-portela/assets/110783805/4cfbcc63-737b-4b05-9c35-4ebf01493a9e)
+<img width=100% src="https://media.licdn.com/dms/image/C5616AQFNfIwkUuwsfg/profile-displaybackgroundimage-shrink_200_800/0/1588263889729?e=2147483647&v=beta&t=FYLMoUUCtq1nLVBA5p3wQ9OjdFZBsiYwj25X4q89gds"/>
 
 <h3>Desenvolvedor Front-end e Web Designer</h3>
 
