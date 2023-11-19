@@ -20,10 +20,8 @@ Contato:
 
 
 
-> Principais características como desenvolvedor:
+> <b>Principais características como desenvolvedor:</b>
 
-> Design e estética
->
 > Codificação proficiente
 >
 > Experiência de usuário (UI/UX)
