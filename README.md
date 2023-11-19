@@ -12,7 +12,7 @@
 Desenvolvedor Front-end e Web Designer
 Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
 
-Contato:
+<b>Contato:</b>
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
@@ -20,7 +20,7 @@ Contato:
 
 
 
-<b>Principais características como desenvolvedor:</b>
+<b>Principais características como desenvolvedor:
 
 > Codificação proficiente
 >
@@ -30,7 +30,7 @@ Contato:
 > 
 > Responsividade
 > 
-> Otimização de desempenho
+> Otimização de desempenho</b>
 
 <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
 
