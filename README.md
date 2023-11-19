@@ -1,12 +1,12 @@
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-> Explorando novas tecnologias e desenvolvendo soluções de software.
->
-> Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
->
-> Aprendendo mais sobre React, Banco de dados e Testes Unitários
-> 
+Explorando novas tecnologias e desenvolvendo soluções de software.
+
+Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
+
+Aprendendo mais sobre React, Banco de dados e Testes Unitários
+ 
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 Desenvolvedor Front-end e Web Designer
