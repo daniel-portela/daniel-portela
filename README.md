@@ -3,16 +3,18 @@
 
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 
-Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e um amplo conhecimento em Web Designer.
 
+>👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+>
+>🎓 Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
+>
+>🌱 Aprendendo mais sobre React, Banco de dados e Testes Unitários
+
+
+<br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
-
-
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
-
-Sou capaz de analisar, projetar e unificar uma mistura de programação e desenvolvimento web. Minha missão é elevar negócios através de códigos e design!
 
 Estatísticas:
 
