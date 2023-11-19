@@ -34,7 +34,7 @@ Contato:
 
 <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
 
-> Conhecimento sólido em:
+<b>Conhecimento sólido em:</b>
 
 <div style="display: inline_block">
   <img align="start" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
@@ -46,7 +46,7 @@ Contato:
 </div><br/>
 
 
-> Estudando:
+<b>Estudando:</b>
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
