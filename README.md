@@ -3,12 +3,14 @@
 
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 
+> Desenvolvedor Front-end e Web Designer
 
->👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+> Explorando novas tecnologias e desenvolvendo soluções de software.
 >
->🎓 Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
+> Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
 >
->🌱 Aprendendo mais sobre React, Banco de dados e Testes Unitários
+> Aprendendo mais sobre React, Banco de dados e Testes Unitários
 
 
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
@@ -16,11 +18,23 @@
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
 
-Estatísticas:
+> Principais características como desenvolvedor:
+
+> Design e estética
+>
+> Codificação proficiente
+>
+> Experiência de usuário (UI/UX)
+>
+> Colaboração e comunicação
+> 
+> Responsividade
+> 
+> Otimização de desempenho
 
 <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
 
-Conhecimento sólido em:
+> Conhecimento sólido em:
 
 <div style="display: inline_block">
   <img align="start" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
@@ -31,13 +45,16 @@ Conhecimento sólido em:
   <img align="start" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
-Estudando:
+> Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
+
+> Estudando:
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img align="center" alt="js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
+Minha combinação de competências técnicas e criativas me permite ser uma peça fundamental na criação de websites e projetos que impressionam e funcionam de maneira eficaz.<br><br>
 Ferramentas:
 
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
