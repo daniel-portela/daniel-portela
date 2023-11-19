@@ -1,6 +1,7 @@
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
+<br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 > Desenvolvedor Front-end e Web Designer
 
@@ -12,7 +13,6 @@
 > Aprendendo mais sobre React, Banco de dados e Testes Unitários
 
 
-<br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
