@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
 
-![1678332617806](https://github.com/daniel-portela/daniel-portela/assets/110783805/bac9c8e9-ab6c-4df8-b5ce-34f59c5d974f)
+![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 
 Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e um amplo conhecimento em Web Designer.
 
