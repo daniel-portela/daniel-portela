@@ -8,7 +8,6 @@ Tenho sólido conjunto de habilidades técnicas em Desenvolvimento Front-end e u
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
-[![Site](https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://danielfront.com.br)
 
 
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
