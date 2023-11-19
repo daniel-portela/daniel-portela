@@ -20,7 +20,7 @@ Contato:
 
 
 
-> <b>Principais características como desenvolvedor:</b>
+<b>Principais características como desenvolvedor:</b>
 
 > Codificação proficiente
 >
