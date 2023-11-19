@@ -3,10 +3,11 @@
 
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
+Desenvolvedor Front-end e Web Designer
+
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
 
-> Desenvolvedor Front-end e Web Designer
 
 
 > Explorando novas tecnologias e desenvolvendo soluções de software.
