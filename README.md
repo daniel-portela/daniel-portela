@@ -4,6 +4,9 @@
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 Desenvolvedor Front-end e Web Designer
+Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
+
+Contato:
 
 <a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
@@ -45,7 +48,6 @@ Desenvolvedor Front-end e Web Designer
   <img align="start" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
-> Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
 
 > Estudando:
 
