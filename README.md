@@ -10,6 +10,7 @@
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 Desenvolvedor Front-end e Web Designer
+
 Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
 
 <b>Contato:</b>
