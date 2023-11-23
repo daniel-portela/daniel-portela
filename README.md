@@ -1,3 +1,15 @@
+<p align="left" style="background:yellow">
+ <a href="https://linkedin.com/in/danie1portela" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+ <a href="https://instagram.com/danielfront_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+ <a href="" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+</p><hr>
+
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
@@ -8,17 +20,12 @@
 >Aprendendo mais sobre React, Banco de dados e Testes Unitários</b>
  
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
+
 
 <b>Desenvolvedor Front-end e Web Designer</b>
 
 Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
-
-<b>Contato:</b>
-
-<a href="https://www.linkedin.com/in/danie1portela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfront_)
-
-
 
 
 <b>Principais características como desenvolvedor:
