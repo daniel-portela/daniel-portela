@@ -5,7 +5,7 @@
  <a href="https://instagram.com/danielfront_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
- <a href="" target="_blank">
+ <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 </p><hr>
