@@ -22,7 +22,7 @@
 <br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
 
-
+<img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
 <b>Desenvolvedor Front-end e Web Designer</b>
 
 Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
@@ -39,8 +39,6 @@ Minha paixão está em transformar conceitos de design em sites interativos e re
 > Responsividade
 > 
 > Otimização de desempenho</b>
-
-<img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <b>Conhecimento sólido em:</b>
 
