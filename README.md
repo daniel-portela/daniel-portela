@@ -53,19 +53,17 @@ Minha paixão está em transformar conceitos de design em sites interativos e re
 
 <b>Estudando:</b>
 
-<div style="display: inline_block">
-   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img align="center" alt="js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div><br/>
+
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
+
 
 Minha combinação de competências técnicas e criativas me permite ser uma peça fundamental na criação de websites e projetos que impressionam e funcionam de maneira eficaz.<br><br>
 <b>Ferramentas:</b>
 
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress ](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Notion ](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=D3D3D3&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&logoColor=4169E1&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=87CEFA&labelColor=0D1117)&nbsp;
+![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&logoColor=708090&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
