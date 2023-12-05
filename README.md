@@ -23,12 +23,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
 
 <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
-<b>Desenvolvedor Front-end e Web Designer</b>
-
-Minha paixão está em transformar conceitos de design em sites interativos e responsivos que proporcionam uma experiência de usuário excepcional.
 
 
-<b>Principais características como desenvolvedor:
+<b>Principais características e conhecimentos:
 
 > Codificação proficiente
 >
@@ -40,7 +37,6 @@ Minha paixão está em transformar conceitos de design em sites interativos e re
 > 
 > Otimização de desempenho</b>
 
-<b>Conhecimento sólido em:</b>
 
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -48,14 +44,9 @@ Minha paixão está em transformar conceitos de design em sites interativos e re
  ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
  ![SASS](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF69B4&labelColor=0D1117)&nbsp;
  ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&labelColor=0D1117)&nbsp;
+ ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
+ ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 <br/>
-
-
-<b>Estudando:</b>
-
-
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 
 
 Minha combinação de competências técnicas e criativas me permite ser uma peça fundamental na criação de websites e projetos que impressionam e funcionam de maneira eficaz.<br><br>
