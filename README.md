@@ -49,7 +49,6 @@
 <br/>
 
 
-Minha combinação de competências técnicas e criativas me permite ser uma peça fundamental na criação de websites e projetos que impressionam e funcionam de maneira eficaz.<br><br>
 <b>Ferramentas:</b>
 
 ![Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=D3D3D3&labelColor=0D1117)&nbsp;
