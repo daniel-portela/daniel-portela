@@ -24,8 +24,6 @@
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=D3D3D3&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=87CEFA&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&logoColor=708090&labelColor=0D1117)&nbsp;<br/>
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
