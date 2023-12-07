@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
 <p align="left" style="background:yellow">
  <a href="https://linkedin.com/in/danie1portela" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -9,17 +9,10 @@
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
-</p><hr>
-
-![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-> <b>Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
->
->Explorando novas tecnologias e desenvolvendo soluções de software.</b>
-
-<br><img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/><br><br>
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
+<br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) <br><br>
 
 <b>Principais características e conhecimentos:
 
