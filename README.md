@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
 <p align="left" style="background:yellow">
  <a href="https://linkedin.com/in/danie1portela" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -13,30 +14,14 @@
 ![1598292852505](https://github.com/daniel-portela/daniel-portela/assets/110783805/5547f22e-a8ee-46d1-9a70-f0f0da270bbd)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-> <b>Explorando novas tecnologias e desenvolvendo soluções de software.
+> <b>Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
 >
->Graduando Análise e Desenvolvimento de Sistemas - UNINASSAU
->
->Aprendendo mais sobre React, Banco de dados e Testes Unitários</b>
- 
-<br>![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p>
+>Explorando novas tecnologias e desenvolvendo soluções de software.</b>
 
-<img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<br><img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&langs_count=7&theme=tokyonight"/><br><br>
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true) 
 
 <b>Principais características e conhecimentos:
-
-> Codificação proficiente
->
-> Experiência de usuário (UI/UX)
->
-> Colaboração e comunicação
-> 
-> Responsividade
-> 
-> Otimização de desempenho</b>
-
 
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -48,12 +33,8 @@
  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 <br/>
 
-
-<b>Ferramentas:</b>
-
 ![Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=D3D3D3&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&logoColor=4169E1&labelColor=0D1117)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=87CEFA&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&logoColor=708090&labelColor=0D1117)&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
