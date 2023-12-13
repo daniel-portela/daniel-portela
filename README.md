@@ -12,7 +12,7 @@
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)<br><hr>
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)<br><br>
 [![Daniel Portela](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact)](https://github.com/daniel-portela/github-readme-stats)
 
 <b>Principais características e conhecimentos:
