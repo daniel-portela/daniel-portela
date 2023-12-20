@@ -30,6 +30,6 @@
 <b>Tools:
 
 ![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=48D1CC&labelColor=0D1117)&nbsp;
-![WordPress](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=blacklabelColor=000000)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=blacklabelColor=000000)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
