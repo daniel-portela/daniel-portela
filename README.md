@@ -15,7 +15,7 @@
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)<br><br>
 [![Daniel Portela](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact)](https://github.com/daniel-portela/github-readme-stats)
 
-<b>Principais características e conhecimentos:
+<b>Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -26,5 +26,10 @@
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=0D1117)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 <br/>
+
+<b>Tools:
+
+![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=48D1CC&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=blacklabelColor=000000)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
