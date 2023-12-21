@@ -12,8 +12,8 @@
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)<br><br>
-[![Daniel Portela](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact)](https://github.com/daniel-portela/github-readme-stats)
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=holi-theme)](https://git.io/streak-stats) 
+<br><br>
 
 <b>Skills:
 
@@ -21,15 +21,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=FF69B4&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=0D1117)&nbsp; 
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 <br/>
 
 <b>Tools:
 
-![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=48D1CC&labelColor=0D1117)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=blacklabelColor=000000)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=white&label)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
