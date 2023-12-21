@@ -1,4 +1,3 @@
-<img width=81% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 <p align="left" style="background:yellow">
  <a href="https://linkedin.com/in/danie1portela" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
