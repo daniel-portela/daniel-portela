@@ -11,7 +11,7 @@
 </p>
 
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true )   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=holi-theme&locale=pt_BR&card_width=350&background=45%2C000000%2C000000)](https://git.io/streak-stats)  
-<br><br>
+<br>
 > <b>Skills:</b>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
