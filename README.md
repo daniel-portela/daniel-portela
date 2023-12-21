@@ -25,6 +25,7 @@
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
 ![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=white&label)&nbsp;
+![Elementor](https://img.shields.io/badge/-elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=purple&label)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
