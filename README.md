@@ -12,7 +12,7 @@
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=holi-theme&locale=pt_BR&card_width=400&background=45%2C000000%2C000000)](https://git.io/streak-stats)  
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true )   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=holi-theme&locale=pt_BR&card_width=350&background=45%2C000000%2C000000)](https://git.io/streak-stats)  
 <br><br>
 
 <b>Skills:
