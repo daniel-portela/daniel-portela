@@ -12,7 +12,7 @@
 
 ![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true ) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&theme=vision-friendly-dark)<br>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&theme=vision-friendly-dark)<br>
 
 > <b>Skills:</b>
 
