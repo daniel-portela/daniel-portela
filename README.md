@@ -10,8 +10,10 @@
 </a>
 </p>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true )   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=holi-theme&locale=pt_BR&card_width=350&background=45%2C000000%2C000000)
-<br>
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true ) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&theme=vision-friendly-dark)<br>
+
 > <b>Skills:</b>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -28,5 +30,5 @@
 ![Elementor](https://img.shields.io/badge/-elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=purple&label)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)&nbsp;
 
-> <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
 <img width=181% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
