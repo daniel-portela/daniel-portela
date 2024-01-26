@@ -30,5 +30,10 @@
 ![Elementor](https://img.shields.io/badge/-elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=purple&label)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)&nbsp;
 
+> <b>Languages:</b>
+
+| 🇧🇷 Português | 🏆 | 🇺🇸 Inglês |
+|-------------|-------|-------------|
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
 <img width=181% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
