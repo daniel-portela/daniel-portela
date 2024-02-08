@@ -13,9 +13,12 @@
 </a>
 </p>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true ) 
+![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true ) <a href="https://github.com/geeky-prashant/github-readme-streak-stats">
+        <img title="🔥 Follow me on github and star some of my repos" alt="danielportela streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-portela&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&theme=vision-friendly-dark)<br>
+
 
 > <b>Skills:</b>
 
