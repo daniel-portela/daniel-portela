@@ -1,3 +1,4 @@
+<img width=181% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=38&section=footer"/>
 <p align="left" style="background:yellow">
  <a href="https://linkedin.com/in/danielengineer" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -13,10 +14,8 @@
 </a>
 </p>
 
-![Daniel Portela](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=github_dark&count_private=true )
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&layout=compact&theme=vision-friendly-dark)<br>
-
+![daniel-portela's Stats](https://github-readme-stats.vercel.app/api?username=daniel-portela&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![daniel-portela's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-portela&theme=midnight-purple&hide_border=false)
 
 > <b>Skills:</b>
 
@@ -40,5 +39,6 @@
 | 🇧🇷 Português | 🏆 | 🇺🇸 Inglês |
 |-------------|-------|-------------|
 
+![daniel-portela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
-<img width=181% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
