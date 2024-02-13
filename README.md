@@ -13,8 +13,8 @@
 </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=midnight-purple)
-![daniel-portela's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-portela&card_width=90%&theme=midnight-purple&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&card_width=50%&theme=midnight-purple)
+![daniel-portela's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-portela&theme=midnight-purple&hide_border=false)
 
 > <b>Skills:</b>
 
