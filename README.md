@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=cyan&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=FF4500&labelColor=0D1117)&nbsp; 
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
 > <b>Tools:</b>
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=48D1CC&labelColor=0D1117)&nbsp;
