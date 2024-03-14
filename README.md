@@ -45,4 +45,3 @@
 ![daniel-portela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
-<img width=181% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=40&section=footer"/>
