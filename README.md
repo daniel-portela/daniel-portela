@@ -1,18 +1,3 @@
-<p align="left" style="background:yellow">
- <a href="https://linkedin.com/in/danielengineer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999109489" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
- <a href="https://www.behance.net/danielengineer_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Behance-05122A?style=flat&logo=behance" alt="behance"/>
-</a>
-</p>
-
 <p align="center">
 
 <a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=blue_navy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="44%" alt="@Goblin's github-readme-stats"/></a>
