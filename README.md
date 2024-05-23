@@ -29,12 +29,3 @@
 ![Elementor](https://img.shields.io/badge/-Elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=EA4C89&labelColor=0D1117)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00&labelColor=0D1117)&nbsp;
-
-> <b>Languages:</b>
-
-| Português | 🏆 | Inglês |
-|-------------|-------|-------------|
-
-![daniel-portela's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-portela&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-portela&color=blue" alt="Vizualização de perfil" /> </p> 
