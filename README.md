@@ -1,8 +1,12 @@
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=blue_navy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="44%" alt="@Goblin's github-readme-stats"/></a>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=blue_navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="width: 44%; margin-left: 2%; margin-right: 2%; margin-bottom: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=daniel-portela&show_icons=true&theme=blue_navy&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="100%" alt="Daniel Portela">
+    </div>
+    <div style="width: 44%; margin-right: 2%; margin-bottom: 100px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-portela&theme=blue_navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="Daniel Portela">
+    </div>
+</div><br>
+
 
 > <b>Skills:</b>
 
