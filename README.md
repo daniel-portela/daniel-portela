@@ -1,6 +1,6 @@
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-portela&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2&custom_title=Principais%20linguagens" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=daniel-portela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-portela&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Principais%20linguagens" height="150" alt="languages graph"  />
 </div><br>
 
 Projetos em destaque:
@@ -8,9 +8,9 @@ Projetos em destaque:
 <a href="https://bancodedadosjs.netlify.app/" target="_blank">Consultas de Tabelas Banco de dados</a><br>
 <a href="https://pagebudget.netlify.app/" target="_blank">Página de Orçamento</a><br>
 <a href="https://juremahotel.netlify.app/" target="_blank">Site Hotel Jurema</a><br>
-<a href="https://cotacaoapiclient.netlify.app/" target="_blank">Interface API Clientes</a>
+<a href="https://cotacaoapiclient.netlify.app/" target="_blank">Interface API Clientes</a><br>
 <a href="https://appguiadepaises.netlify.app/" target="_blank">Guia de Paíes API</a><br>
-<a href="https://danielportela/" target="_blank">Portfólio</a></p><br>
+<a href="https://danielportela.netlify.app/" target="_blank">Portfólio</a></p><br>
 
 Tecnologias que eu domino:
 
