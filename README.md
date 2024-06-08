@@ -8,6 +8,8 @@ Projetos em destaque:
 <a href="https://pagebudget.netlify.app/" target="_blank">Página de Orçamento</a><br>
 <a href="https://juremahotel.netlify.app/" target="_blank">Site Hotel Jurema</a><br>
 <a href="https://cotacaoapiclient.netlify.app/" target="_blank">Interface API Clientes</a><br>
+<a href="https://apiusergithub.netlify.app/" target="_blank">Busca de usuários do Github</a><br>
+<a href="https://appenviaremail.netlify.app/" target="_blank">Aplicativo envio de emails</a><br>
 <a href="https://appguiadepaises.netlify.app/" target="_blank">Guia de Paíes API</a><br>
 <a href="https://danielportela.netlify.app/" target="_blank">Portfólio</a></p><br>
 
@@ -30,9 +32,7 @@ Tecnologias que eu domino:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
-</div><br>
-<div align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" alt="webpack logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
