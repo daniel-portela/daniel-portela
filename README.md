@@ -32,7 +32,8 @@ Tecnologias que eu domino:
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  /><br>
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  /></div>
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" alt="webpack logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
