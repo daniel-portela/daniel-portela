@@ -4,16 +4,18 @@
 
 Projetos em destaque:
 
-<a href="https://bancodedadosjs.netlify.app/" target="_blank">Consultas de Tabelas Banco de dados</a><br>
-<a href="https://pagebudget.netlify.app/" target="_blank">Página de Orçamento</a><br>
-<a href="https://juremahotel.netlify.app/" target="_blank">Site Hotel Jurema</a><br>
-<a href="https://cotacaoapiclient.netlify.app/" target="_blank">Interface API Clientes</a><br>
-<a href="https://apiusergithub.netlify.app/" target="_blank">Busca de usuários do Github</a><br>
-<a href="https://appenviaremail.netlify.app/" target="_blank">Aplicativo envio de emails</a><br>
-<a href="https://appguiadepaises.netlify.app/" target="_blank">Guia de Paíes API</a><br>
-<a href="https://danielportela.netlify.app/" target="_blank">Portfólio</a></p><br>
+| Projeto | Link | Repositório |
+|---------|------|-------------|
+| Consultas de Tabelas Banco de dados | [Acessar](https://bancodedadosjs.netlify.app/) | [Repositório](consulta-banco-de-dados) |
+| Página de Orçamento | [Acessar](https://pagebudget.netlify.app/) | [Repositório](https://github.com/daniel-portela/budget-page) |
+| Site Hotel Jurema | [Acessar](https://juremahotel.netlify.app/) | [Repositório](https://github.com/daniel-portela/hotel-jurema-website) |
+| Interface API Clientes | [Acessar](https://cotacaoapiclient.netlify.app/) | [Repositório](https://github.com/daniel-portela/interface-api-cliente-acoes) |
+| Busca de usuários do Github | [Acessar](https://apiusergithub.netlify.app/) | [Repositório](https://github.com/daniel-portela/github-api-interface) |
+| Aplicativo envio de emails | [Acessar](https://appenviaremail.netlify.app/) | [Repositório](https://github.com/daniel-portela/app-enviar-email) |
+| Guia de Países API | [Acessar](https://appguiadepaises.netlify.app/) | [Repositório](https://github.com/daniel-portela/guia-de-paises-api) |
+| Portfólio | [Acessar](https://danielportela.netlify.app/) | [Repositório](https://github.com/daniel-portela/meu-portfolio) |
 
-Tecnologias que eu domino:
+<br><br>Tecnologias que eu domino:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -53,9 +55,7 @@ Tecnologias que eu domino:
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
 </div>
 
-###
-
-<p align="left">O que posso fazer:<br><br>Desenvolvimento frontend de sites e aplicações web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
+<br><p align="left">O que posso fazer:<br><br>Desenvolvimento frontend de sites e aplicações web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
 
 ###
 
