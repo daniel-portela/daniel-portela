@@ -51,7 +51,6 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
   </tr>
 </table>
-<hr style="border: 1px solid blue;">
 
 <br>Tecnologias que eu domino:
 
