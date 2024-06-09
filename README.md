@@ -4,18 +4,56 @@
 
 Projetos em destaque:
 
-| Projeto | Link | Repositório |
-|---------|------|-------------|
-| Consultas de Tabelas Banco de dados | [Acessar](https://bancodedadosjs.netlify.app/) | [Repositório](consulta-banco-de-dados) |
-| Página de Orçamento | [Acessar](https://pagebudget.netlify.app/) | [Repositório](https://github.com/daniel-portela/budget-page) |
-| Site Hotel Jurema | [Acessar](https://juremahotel.netlify.app/) | [Repositório](https://github.com/daniel-portela/hotel-jurema-website) |
-| Interface API Clientes | [Acessar](https://cotacaoapiclient.netlify.app/) | [Repositório](https://github.com/daniel-portela/interface-api-cliente-acoes) |
-| Busca de usuários do Github | [Acessar](https://apiusergithub.netlify.app/) | [Repositório](https://github.com/daniel-portela/github-api-interface) |
-| Aplicativo envio de emails | [Acessar](https://appenviaremail.netlify.app/) | [Repositório](https://github.com/daniel-portela/app-enviar-email) |
-| Guia de Países API | [Acessar](https://appguiadepaises.netlify.app/) | [Repositório](https://github.com/daniel-portela/guia-de-paises-api) |
-| Portfólio | [Acessar](https://danielportela.netlify.app/) | [Repositório](https://github.com/daniel-portela/meu-portfolio) |
+<table style="width:100%; border: 1px solid blue;">
+  <tr>
+    <th>Projeto</th>
+    <th>Link</th>
+    <th>Repositório</th>
+  </tr>
+  <tr>
+    <td>Consultas de Tabelas Banco de dados</td>
+    <td><a href="https://bancodedadosjs.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/consulta-banco-de-dados" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Página de Orçamento</td>
+    <td><a href="https://pagebudget.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Site Hotel Jurema</td>
+    <td><a href="https://juremahotel.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Interface API Clientes</td>
+    <td><a href="https://cotacaoapiclient.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/interface-api-cliente-acoes" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Busca de usuários do Github</td>
+    <td><a href="https://apiusergithub.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Aplicativo envio de emails</td>
+    <td><a href="https://appenviaremail.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/app-enviar-email" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Guia de Países API</td>
+    <td><a href="https://appguiadepaises.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/guia-de-paises-api" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Portfólio</td>
+    <td><a href="https://danielportela.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
+  </tr>
+</table>
+<hr style="border: 1px solid blue;">
 
-<br><br>Tecnologias que eu domino:
+<br>Tecnologias que eu domino:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
