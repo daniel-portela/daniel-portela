@@ -11,6 +11,11 @@ Projetos em destaque:
     <th>Repositório</th>
   </tr>
   <tr>
+    <td>Teste de Digitação em Inglês</td>
+    <td><a href="https://testedigitaingles.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/teste-digitacao-ingles" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
     <td>Consultas de Tabelas Banco de dados</td>
     <td><a href="https://bancodedadosjs.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/consulta-banco-de-dados" target="_blank">Repositório</a></td>
