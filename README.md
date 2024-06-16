@@ -26,9 +26,9 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Site Hotel Jurema</td>
-    <td><a href="https://juremahotel.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
+    <td>Aplicativo Analisador JSON</td>
+    <td><a href="https://analisarjsonapp.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/app-analisador-json" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>Interface API Clientes</td>
@@ -36,7 +36,12 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/interface-api-cliente-acoes" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Busca de usuários do Github</td>
+    <td>Site Hotel Jurema</td>
+    <td><a href="https://juremahotel.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
+    <td>Buscar usuários do Github com API</td>
     <td><a href="https://apiusergithub.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
   </tr>
