@@ -41,6 +41,11 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
   </tr>
   <tr>
+    <td>Digital Marketing Agency React</td>
+    <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
     <td>Buscar usuários do Github com API</td>
     <td><a href="https://apiusergithub.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
