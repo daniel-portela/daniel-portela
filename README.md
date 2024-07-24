@@ -35,6 +35,11 @@ Projetos em destaque:
     <td><a href="https://cotacaoapiclient.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/interface-api-cliente-acoes" target="_blank">Repositório</a></td>
   </tr>
+    <tr>
+    <td>Calcular empréstimos MEI</td>
+    <td><a href="https://calcularemprestimojs.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/calcular-emprestimo-js" target="_blank">Repositório</a></td>
+  </tr>
   <tr>
     <td>Site Hotel Jurema</td>
     <td><a href="https://juremahotel.netlify.app/" target="_blank">Acessar</a></td>
