@@ -16,6 +16,11 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/teste-digitacao-ingles" target="_blank">Repositório</a></td>
   </tr>
   <tr>
+    <td>Horizon React + Styled Components</td>
+    <td><a href="https://horizon-dashboard-react.vercel.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/horizon-dashboard-react" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
     <td>Consultas de Tabelas Banco de dados</td>
     <td><a href="https://bancodedadosjs.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/consulta-banco-de-dados" target="_blank">Repositório</a></td>
