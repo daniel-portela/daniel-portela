@@ -10,35 +10,50 @@ Projetos em destaque:
     <th>Link</th>
     <th>Repositório</th>
   </tr>
+    <tr>
+    <td>Horizon React + Styled Components</td>
+    <td><a href="https://horizon-dashboard-react.vercel.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/horizon-dashboard-react" target="_blank">Repositório</a></td>
+  </tr>
+    <tr>
+    <td>Digital Marketing Agency React</td>
+    <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
+  </tr>
   <tr>
     <td>Teste de Digitação em Inglês</td>
     <td><a href="https://testedigitaingles.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/teste-digitacao-ingles" target="_blank">Repositório</a></td>
   </tr>
-  <tr>
-    <td>Horizon React + Styled Components</td>
-    <td><a href="https://horizon-dashboard-react.vercel.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/horizon-dashboard-react" target="_blank">Repositório</a></td>
+    <tr>
+    <td>Aplicativo Analisador JSON</td>
+    <td><a href="https://analisarjsonapp.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/app-analisador-json" target="_blank">Repositório</a></td>
+  </tr>
+    <tr>
+    <td>Interface API Clientes</td>
+    <td><a href="https://cotacaoapiclient.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/interface-api-cliente-acoes" target="_blank">Repositório</a></td>
+  </tr>
+    <tr>
+    <td>Página de Orçamento</td>
+    <td><a href="https://pagebudget.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
+  </tr>
+    <tr>
+    <td>Buscar usuários do Github com API</td>
+    <td><a href="https://apiusergithub.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
+  </tr>
+    <tr>
+    <td>Guia de Países API</td>
+    <td><a href="https://appguiadepaises.netlify.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/guia-de-paises-api" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>Consultas de Tabelas Banco de dados</td>
     <td><a href="https://bancodedadosjs.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/consulta-banco-de-dados" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Página de Orçamento</td>
-    <td><a href="https://pagebudget.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Aplicativo Analisador JSON</td>
-    <td><a href="https://analisarjsonapp.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/app-analisador-json" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Interface API Clientes</td>
-    <td><a href="https://cotacaoapiclient.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/interface-api-cliente-acoes" target="_blank">Repositório</a></td>
   </tr>
     <tr>
     <td>Calcular empréstimos MEI</td>
@@ -51,27 +66,12 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Digital Marketing Agency React</td>
-    <td><a href="https://digital-marketing-agency-lovat.vercel.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Buscar usuários do Github com API</td>
-    <td><a href="https://apiusergithub.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
     <td>Aplicativo envio de emails</td>
     <td><a href="https://appenviaremail.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/app-enviar-email" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Guia de Países API</td>
-    <td><a href="https://appguiadepaises.netlify.app/" target="_blank">Acessar</a></td>
-    <td><a href="https://github.com/daniel-portela/guia-de-paises-api" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Portfólio</td>
+    <td>Meu Portfólio</td>
     <td><a href="https://danielportela.netlify.app/" target="_blank">Acessar</a></td>
     <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
   </tr>
@@ -88,6 +88,8 @@ Projetos em destaque:
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="angular logo" />
+<img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
@@ -117,7 +119,7 @@ Projetos em destaque:
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
 </div>
 
-<br><p align="left">O que posso fazer:<br><br>Desenvolvimento frontend de sites e aplicações web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
+<br><p align="left">O que posso fazer:<br><br>Desenvolvimento Front-end de sites e Sistemas Web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas com Angular e React, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
 
 ###
 
