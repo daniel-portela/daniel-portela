@@ -77,7 +77,7 @@ Projetos em destaque:
   </tr>
 </table>
 
-<br>Tecnologias que eu domino:
+<br>Tecnologias e ferramentas que eu domino:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -86,12 +86,14 @@ Projetos em destaque:
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="angular logo" />
-<img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
+  <img width="15" /><br><br>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
@@ -103,20 +105,24 @@ Projetos em destaque:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+  <img width="15" /><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" alt="webpack logo"  />
-  <img width="15" /><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="25" alt="wordpress logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/elementor/purple" height="25" alt="elementor logo"  />
+  <img width="15" /><br><br>
+  <img src="https://cdn.simpleicons.org/webflow/21759B" height="25" alt="webflow logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="25" alt="adobephotoshop logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="25" alt="npm logo"  />
 </div>
 
 <br><p align="left">O que posso fazer:<br><br>Desenvolvimento Front-end de sites e Sistemas Web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas com Angular e React, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
