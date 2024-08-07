@@ -105,7 +105,7 @@ Projetos em destaque:
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="25" alt="webpack logo"  />
-  <img width="15" /><br>
+  <img width="15" /><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="25" alt="wordpress logo"  />
