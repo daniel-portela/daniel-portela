@@ -21,9 +21,9 @@ Projetos em destaque:
     <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>TypeScript + React: Adicionar Times de Desenvolvimeento </td>
-    <td><a href="https://github.com/daniel-portela/projeto-typescript-add-time" target="_blank">Acessar</a></td>
-    <td><a href="https://projeto-typescript-add-time.vercel.app/" target="_blank">Repositório</a></td>
+    <td>TypeScript + React: Equipe de Desenvolvimento</td>
+    <td><a href="https://projeto-typescript-add-time.vercel.app/" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/daniel-portela/projeto-typescript-add-time" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>Teste de Digitação em Inglês</td>
