@@ -4,7 +4,7 @@
 
 <table style="width:100%; border: 1px solid blue;">
   <tr>
-    <th align="left">Trabalhando em Sistemas JavaScript, TypeScript, React, Angular e Bootstrap</th>
+    <th align="left">Trabalhando em Sistemas JavaScript, React, Angular e Bootstrap</th>
     <th>Link</th>
     <th>Repositório</th>
   </tr>
