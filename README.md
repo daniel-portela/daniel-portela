@@ -48,6 +48,11 @@
     <td><a href="https://pagebudget.netlify.app/" title="Esse projeto consiste em uma página completa de orçamento que contém verificação de valores, despesas e equilíbrio." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
   </tr>
+  <tr>
+    <td>Aplicativo Organizar Despesas</td>
+    <td><a href="https://apptrackexpense.netlify.app/" title="O aplicativo organizador de despezas é uma ferramenta simples para ajudar a controlar suas despesas diárias. Com ele, você pode adicionar suas despesas, categorizá-las e acompanhar seu total gasto. É uma ótima maneira de manter o controle das suas finanças pessoais." target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/app-trackexpense" target="_blank">Repositório</a></td>
+  </tr>
     <tr>
     <td>Buscar usuários do Github com API</td>
     <td><a href="https://apiusergithub.netlify.app/" title="Este projeto consiste em uma interface web que permite buscar informações de usuários do Github utilizando a API do Github. É construído com HTML, CSS e JavaScript puro." target="_blank">Visualizar</a></td>
