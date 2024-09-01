@@ -13,6 +13,11 @@
     <td><a href="https://horizon-dashboard-react.vercel.app/" title="Design de dashboard moderno implementado usando React, styled-components e Recharts. Inclui vários componentes, estilos e gerenciamento de estado usando Redux." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/horizon-dashboard-react" target="_blank">Repositório</a></td>
   </tr>
+  <tr>
+    <td>Novabank TypeScript</td>
+    <td><a href="https://www.youtube.com/watch?v=--g6Hjv-Bq8" title="O NovaBank é um projeto que simula as operações básicas de um banco, com funcionalidades como gerenciamento de contas, transações e formatação de dados de transação." target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/novabank-typescript" target="_blank">Repositório</a></td>
+  </tr>
     <tr>
     <td>Digital Marketing Agency React</td>
     <td><a href="https://digital-marketing-agency-lovat.vercel.app/" title="O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App" target="_blank">Visualizar</a></td>
