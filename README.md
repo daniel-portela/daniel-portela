@@ -59,7 +59,7 @@
     <td><a href="https://github.com/daniel-portela/app-trackexpense" target="_blank">Repositório</a></td>
   </tr>
     <tr>
-    <td>Buscar usuários do Github com API</td>
+    <td>Buscar usuários do Github API</td>
     <td><a href="https://apiusergithub.netlify.app/" title="Este projeto consiste em uma interface web que permite buscar informações de usuários do Github utilizando a API do Github. É construído com HTML, CSS e JavaScript puro." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/github-api-interface" target="_blank">Repositório</a></td>
   </tr>
@@ -75,14 +75,9 @@
     <td><a href="https://github.com/daniel-portela/consulta-banco-de-dados" target="_blank">Repositório</a></td>
   </tr>
     <tr>
-    <td>Calcular empréstimos MEI</td>
+    <td>Calcular Empréstimos MEI</td>
     <td><a href="https://calcularemprestimojs.netlify.app/" title="Este é um projeto de uma calculadora de empréstimos que permite aos usuários calcular o valor da parcela mensal (EMI), os juros totais e o pagamento total com base no valor do empréstimo, taxa de juros e prazo do empréstimo." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/calcular-emprestimo-js" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Site Hotel Jurema</td>
-    <td><a href="https://juremahotel.netlify.app/" title="Site para empresa Hotel Jurema desenvolvido de forma autônoma com design responsivo usando propriedades avançadas do HTML, CSS e Javascript." target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/hotel-jurema-website" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>Aplicativo envio de emails</td>
