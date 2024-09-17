@@ -119,6 +119,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" title="Git" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo" title="GitHub" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="25" alt="gitlab logo" title="Gitlab" />
   <img width="15" /><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" title="VS Code" />
   <img width="15" />
