@@ -107,11 +107,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="angular logo" title="Angular" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo" title="Bootstrap" />
-  <img width="15" /><br><br>
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo" title="SASS/SCSS" />
-  <img width="15" />
+  <img width="15" /><br><br>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo" title="Node.js" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo" title="AWS" />
@@ -121,6 +121,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo" title="GitHub" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="25" alt="gitlab logo" title="Gitlab" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="25" alt="gitlab logo" title="Postman" />
   <img width="15" /><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo" title="VS Code" />
   <img width="15" />
