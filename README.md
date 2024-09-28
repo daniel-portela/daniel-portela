@@ -54,6 +54,11 @@
     <td><a href="https://github.com/daniel-portela/budget-page" target="_blank">Repositório</a></td>
   </tr>
   <tr>
+    <td>Aplicativo Taskbuddy</td>
+    <td><a href="https://apptaskbuddy.netlify.app/" title="O aplicativo de tarefas tem como característica o registro e data de criação e das últimas modificações realizadas dentro do projeto. Também é possível personalizar sua experiência escolhendo entre diferentes modos de cores para se adequar ao seu estilo. " target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/taskbuddy" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
     <td>Aplicativo Organizar Despesas</td>
     <td><a href="https://apptrackexpense.netlify.app/" title="O aplicativo organizador de despezas é uma ferramenta simples para ajudar a controlar suas despesas diárias. Com ele, você pode adicionar suas despesas, categorizá-las e acompanhar seu total gasto. É uma ótima maneira de manter o controle das suas finanças pessoais." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/app-trackexpense" target="_blank">Repositório</a></td>
