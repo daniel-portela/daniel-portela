@@ -18,7 +18,12 @@
     <td><a href="https://www.youtube.com/watch?v=--g6Hjv-Bq8" title="O NovaBank é um projeto que simula as operações básicas de um banco, com funcionalidades como gerenciamento de contas, transações e formatação de dados de transação." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/novabank-typescript" target="_blank">Repositório</a></td>
   </tr>
-    <tr>
+  <tr>
+    <td>Meu Portfólio</td>
+    <td><a href="https://danielportela.netlify.app/" title="Meu portfólio apresenta um layout intuitivo e responsivo, garantindo uma experiência em todos os dispositivos, desde smartphones até desktops." target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
+  </tr>
+  <tr>
     <td>Digital Marketing Agency React</td>
     <td><a href="https://digital-marketing-agency-lovat.vercel.app/" title="O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App" target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
@@ -88,11 +93,6 @@
     <td>Aplicativo envio de emails</td>
     <td><a href="https://appenviaremail.netlify.app/" title="Este projeto consiste em um formulário de envio de e-mails utilizando HTML, CSS e JavaScript com integração ao EmailJS para facilitar o envio de e-mails diretamente do cliente." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/app-enviar-email" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
-    <td>Meu Portfólio</td>
-    <td><a href="https://danielportela.netlify.app/" title="Meu portfólio apresenta um layout intuitivo e responsivo, garantindo uma experiência em todos os dispositivos, desde smartphones até desktops." target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
   </tr>
 </table>
 
