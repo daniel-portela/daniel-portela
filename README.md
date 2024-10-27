@@ -24,9 +24,9 @@
     <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Digital Marketing Agency React</td>
-    <td><a href="https://digital-marketing-agency-lovat.vercel.app/" title="O projeto inovador foi desenvolvido utilizando a poderosa biblioteca React + Create React App" target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/digital-marketing-agency" target="_blank">Repositório</a></td>
+    <td>Projetos Web Design</td>
+    <td><a href="https://bannerphotoshopdesign.netlify.app/" target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/projetos-webdesign" target="_blank">Repositório</a></td>
   </tr>
   <tr>
     <td>TypeScript + React: Equipe de Desenvolvimento</td>
