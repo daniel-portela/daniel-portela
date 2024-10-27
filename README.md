@@ -24,11 +24,6 @@
     <td><a href="https://github.com/daniel-portela/meu-portfolio" target="_blank">Repositório</a></td>
   </tr>
   <tr>
-    <td>Projetos Web Design</td>
-    <td><a href="https://bannerphotoshopdesign.netlify.app/" target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/projetos-webdesign" target="_blank">Repositório</a></td>
-  </tr>
-  <tr>
     <td>TypeScript + React: Equipe de Desenvolvimento</td>
     <td><a href="https://projeto-typescript-add-time.vercel.app/" title="O Organo é aplicação de pessoas e times desenvolvida com React + Typescript. O projeto contém um layout responsivo com um card para escolha do nome, cargo, imagem e time. Com o preenchimento correto, logo após em 'criar card' uma pessoa será adicionada logo abaixo para conter o time de desenvolvimento." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projeto-typescript-add-time" target="_blank">Repositório</a></td>
