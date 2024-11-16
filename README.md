@@ -84,11 +84,6 @@
     <td><a href="https://calcularemprestimojs.netlify.app/" title="Este é um projeto de uma calculadora de empréstimos que permite aos usuários calcular o valor da parcela mensal (EMI), os juros totais e o pagamento total com base no valor do empréstimo, taxa de juros e prazo do empréstimo." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/calcular-emprestimo-js" target="_blank">Repositório</a></td>
   </tr>
-  <tr>
-    <td>Aplicativo envio de emails</td>
-    <td><a href="https://appenviaremail.netlify.app/" title="Este projeto consiste em um formulário de envio de e-mails utilizando HTML, CSS e JavaScript com integração ao EmailJS para facilitar o envio de e-mails diretamente do cliente." target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/app-enviar-email" target="_blank">Repositório</a></td>
-  </tr>
 </table>
 
 <br>Tecnologias e ferramentas que eu domino:
