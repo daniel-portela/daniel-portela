@@ -28,11 +28,6 @@
     <td><a href="https://projeto-typescript-add-time.vercel.app/" title="O Organo é aplicação de pessoas e times desenvolvida com React + Typescript. O projeto contém um layout responsivo com um card para escolha do nome, cargo, imagem e time. Com o preenchimento correto, logo após em 'criar card' uma pessoa será adicionada logo abaixo para conter o time de desenvolvimento." target="_blank">Visualizar</a></td>
     <td><a href="https://github.com/daniel-portela/projeto-typescript-add-time" target="_blank">Repositório</a></td>
   </tr>
-  <tr>
-    <td>Teste de Digitação em Inglês</td>
-    <td><a href="https://testedigitaingles.netlify.app/" title="Esta API fornece citações aleatórias que podem ser utilizadas para diversas finalidades, como inspiração, exibição em aplicativos de teste de digitação em inglês, ou como conteúdo para sites e aplicações." target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/teste-digitacao-ingles" target="_blank">Repositório</a></td>
-  </tr>
     <tr>
     <td>Aplicativo Analisador JSON</td>
     <td><a href="https://analisarjsonapp.netlify.app/" title="Este é um aplicativo simples para analisar e exibir dados JSON. Você pode inserir JSON manualmente em uma área de texto ou carregar um arquivo JSON para análise." target="_blank">Visualizar</a></td>
