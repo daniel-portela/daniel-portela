@@ -35,8 +35,8 @@
   </tr>
   <tr>
     <td>Admin Flow Angular 18+</td>
-    <td><a href="https://analisarjsonapp.netlify.app/" title="Sistema de gerenciamento de usuários e controle administrativo, desenvolvido em Angular 18+ com TypeScript, Bootstrap e SCSS." target="_blank">Visualizar</a></td>
-    <td><a href="https://github.com/daniel-portela/app-analisador-json" target="_blank">Repositório</a></td>
+    <td><a href="https://admin-flow.vercel.app/" title="Sistema de gerenciamento de usuários e controle administrativo, desenvolvido em Angular 18+ com TypeScript, Bootstrap e SCSS." target="_blank">Visualizar</a></td>
+    <td><a href="https://github.com/daniel-portela/admin-flow" target="_blank">Repositório</a></td>
   </tr>
   <td>Site Travel Website com SCSS</td>
     <td><a href="https://travelsiteviagem.netlify.app/" title="Site de viagens para as mais belas praias, utilizando HTML5, SCSS, CSS3 e JavaScript" target="_blank">Vizualizar</a></td>
