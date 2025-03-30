@@ -133,9 +133,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" title="Figma" />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="25" alt="adobephotoshop logo" title="Adobe Photoshop" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator logo" title="Adobe Illustrator" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="25" alt="Adobe Photoshop" title="Adobe Photoshop" />
+<span style="display:inline-block; width:15px;" ></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator logo" title="Adobe Illustrator" />
 </div>
 
 <br><p align="left">O que posso fazer:<br><br>Desenvolvimento Front-end de sites e Sistemas Web responsivas e acessíveis.<br>Criação de interfaces de usuário atraentes e intuitivas com Angular e React, focadas na experiência do usuário.<br>Colaborar em equipes multidisciplinares para transformar ideias em produtos digitais de sucesso.</p>
